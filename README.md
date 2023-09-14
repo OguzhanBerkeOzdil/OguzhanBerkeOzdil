@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 📄 About my experiences [Programming, Drawing, 3D Modelling, Professional Sports, Story Writing]
+- 📄 About my experiences **Programming, Drawing, 3D Modelling, Professional Sports, Story Writing**
 
 - ⚡ Fun fact **I am as strong as Conan the barbarian**
 

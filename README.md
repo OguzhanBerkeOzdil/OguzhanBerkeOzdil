@@ -1,17 +1,13 @@
-<h1 align="center">Hi 👋, I'm Oğuzhan Berke Özdil 1</h1>
+<h1 align="center">Hi 👋, I'm Oğuzhan Berke Özdil</h1>
 <h3 align="center">A Computer Science student and Programmer from Turkey, living in Poland.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oguzhanberkeozdil&label=Profile%20views&color=0e75b6&style=flat" alt="oguzhanberkeozdil" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [@github](@github)
+- 📄 About my experiences [agamc](yok)
 
-- 📫 How to reach me **asdasas@hotmail.com**
-
-- 📄 Know about my experiences [asdasda](asdasda)
-
-- ⚡ Fun fact **I am strong**
+- ⚡ Fun fact **I am strong as Conan the barbarian**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

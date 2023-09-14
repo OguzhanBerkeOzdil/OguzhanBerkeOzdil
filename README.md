@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 📄 About my experiences [agamc](yok)
+- 📄 About my experiences [Programming, Drawing, 3D Modelling, Professional Sports, Story Writing]
 
-- ⚡ Fun fact **I am strong as Conan the barbarian**
+- ⚡ Fun fact **I am as strong as Conan the barbarian**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

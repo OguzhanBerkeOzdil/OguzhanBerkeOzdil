@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oguzhanberkeozdil&label=Profile%20views&color=0e75b6&style=flat" alt="oguzhanberkeozdil" /> </p>
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 🌐 Currently, I'm diving into the realm of **Data Science and Machine Learning**
 
 - 📄 About my experiences **Programming, Drawing, 3D Modelling, Professional Sports, Story Writing**
 
-- ⚡ Fun fact **I am as strong as Conan the barbarian** <img align="right" width="480" height="240" src="https://github.com/OguzhanBerkeOzdil/OguzhanBerkeOzdil/blob/master/conanGIF.gif">
+- ⚡ Fun fact **I'm as strong as Conan the barbarian when it comes to debugging! 💪** <img align="right" width="240" height="120" src="https://github.com/OguzhanBerkeOzdil/OguzhanBerkeOzdil/blob/master/conanGIF.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

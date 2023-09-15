@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+  <img width="640" height="400" src="https://github.com/OguzhanBerkeOzdil/OguzhanBerkeOzdil/blob/master/githubProfile.gif">
 </p>
 
 <h1 align="center">Hello there 👋, I'm Oğuzhan Berke Özdil</h1>
@@ -11,7 +11,7 @@
 
 - 📄 About my experiences **Programming, Drawing, 3D Modelling, Professional Sports, Story Writing**
 
-- ⚡ Fun fact **I am as strong as Conan the barbarian** 
+- ⚡ Fun fact **I am as strong as Conan the barbarian** <img align="right" width="480" height="240" src="https://github.com/OguzhanBerkeOzdil/OguzhanBerkeOzdil/blob/master/conanGIF.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

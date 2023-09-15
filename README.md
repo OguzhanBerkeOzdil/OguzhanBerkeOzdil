@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="730" height="480" src="https://github.com/OguzhanBerkeOzdil/OguzhanBerkeOzdil/blob/master/githubProfile.gif">
+  <img width="720" height="480" src="https://github.com/OguzhanBerkeOzdil/OguzhanBerkeOzdil/blob/master/githubProfile.gif">
 </p>
 
 <h1 align="center">Hello there 👋, I'm Oğuzhan Berke Özdil</h1>

@@ -5,7 +5,7 @@
 
 <h1 align="center">Hey there, I'm Oğuzhan&nbsp;Berke&nbsp;Özdil <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<h3 align="center">Computer Science undergrad • Data Science & ML enthusiast • Web Designer • Living in Kraków 🇵🇱</h3>
+<h3 align="center">Computer Science graduate • Data Science & ML enthusiast • Web Designer • Living in Kraków 🇵🇱</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=oguzhanberkeozdil&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">

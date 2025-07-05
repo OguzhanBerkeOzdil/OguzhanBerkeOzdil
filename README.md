@@ -22,7 +22,7 @@
 ## 🛠️ Tech Toolbox
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,csharp,cpp,js,ts,bash,html,css,react,angular,django,dotnet,pytorch,nodejs,docker,kubernetes,postgres,mongodb,mssql,git,linux,blender,photoshop,illustrator&perline=10" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=python,java,cs,cpp,js,ts,bash,html,css,react,angular,django,dotnet,pytorch,nodejs,docker,kubernetes,postgres,mongodb,mssql,git,linux,blender,photoshop,illustrator&perline=10" alt="Tech Stack"/>
   </a>
 </p>
 

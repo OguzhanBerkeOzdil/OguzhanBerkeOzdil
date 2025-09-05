@@ -1,7 +1,7 @@
 # Oğuzhan Berke Özdil
 
-**Software Engineer — Backend & E2E Test Automation**  
-*MSc AI & Data Analysis @ AGH University of Krakow · EU work authorized (no sponsorship)*
+**Software Engineer — Data Scientist**  
+*MSc AI & Data Analysis @ AGH University of Krakow 
 
 I build reliable backend services, end-to-end test automation, and reproducible ML/data pipelines.
 Currently contributing to a **€2M EU-funded R&D** project at AGH; previously delivered **E2E test

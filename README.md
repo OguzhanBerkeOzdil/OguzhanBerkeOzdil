@@ -19,30 +19,14 @@ automation** in production at Autosymed.
 
 ---
 
-## 🧪 Selected projects
-- **Full-stack Lab System** — Flask backend with REST/JSON + React (TypeScript) UI; supports experiment setup, live telemetry, and result review.  
-  *Tech:* Python (Flask), React/TS, Docker, Git
-
-- **Robotics Telemetry & Pipelines** — Control & logging services for a **robotic arm**; reproducible **ML** data collection/preprocessing/evaluation.  
-  *Tech:* Python, C#, PyTest, Git
-
-- **Test Automation @ Autosymed** — **E2E** regression suite replacing manual QA; API validations and test data tooling.  
-  *Tech:* Playwright, Selenium, PyTest, Postman, Docker, Git, PostgreSQL
-
-> İlgili kod/örnekler: [github.com/OguzhanBerkeOzdil](https://github.com/OguzhanBerkeOzdil)  
-> (Canlı demolar veya repo linklerini buraya ekleyebilirsin.)
-
----
-
-## 📄 Resume & links
-- **Resume (PDF):** *(repo’ya `docs/` altına ekleyip buraya link ver)*  
+## 📄 links
 - **LinkedIn:** https://www.linkedin.com/in/oguzhanberkeozdil/  
 - **Email:** ozdiloguzhanberke@gmail.com
 
 ---
 
 <details>
-  <summary>Optional: banner & stats (isteğe bağlı görseller)</summary>
+  <summary>Optional: banner & stats </summary>
   <br>
   <p align="center">
     <img src="https://github.com/OguzhanBerkeOzdil/OguzhanBerkeOzdil/raw/master/assets/header-light.gif" width="100%" alt="banner">

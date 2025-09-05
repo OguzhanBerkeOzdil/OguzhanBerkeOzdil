@@ -13,9 +13,13 @@ automation** in production at Autosymed.
 ---
 
 ## 🧰 Tech I use
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,flask,typescript,react,cs,java,postgres,docker,git,linux,pytest,playwright,selenium&perline=14" alt="stack" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,typescript,react,cs,dotnet,java,postgres,git,docker,linux,pytest,playwright,selenium,postman,pandas,numpy&perline=10" alt="stack" />
 </p>
+<p align="center">
+  <sub><b>Also:</b> REST/JSON APIs · SQL · MS SQL · CI/CD (GitLab) · Atlassian (Jira/Confluence/Bitbucket) · MLflow · Jupyter</sub>
+</p>
+
 
 ---
 

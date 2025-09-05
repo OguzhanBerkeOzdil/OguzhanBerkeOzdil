@@ -14,7 +14,7 @@ automation** in production at Autosymed.
 
 ## 🧰 Tech I use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,typescript,react,cs,dotnet,java,postgres,git,docker,linux,pytest,postman,pandas,numpy&perline=10" alt="stack" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,typescript,react,cs,dotnet,java,postgres,git,docker,linux,pytest,playwright,selenium,postman,pandas,numpy&perline=10" alt="stack" />
 </p>
 
 ---

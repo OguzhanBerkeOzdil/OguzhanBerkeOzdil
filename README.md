@@ -5,12 +5,14 @@
 <h1 align="center">Oğuzhan Berke Özdil</h1>
 
 <p align="center">
-  <strong>PhD researcher in Computer Science at AGH University of Krakow</strong><br />
+  <strong>PhD researcher in Information and Communication Technology at AGH University of Krakow</strong><br />
   Experimental systems, vibroacoustic signals and reliable machine learning
 </p>
 
 <p align="center">
   <a href="https://oguzhanberkeozdil.github.io/">Research website</a> &nbsp;|&nbsp;
+  <a href="https://scholar.google.com/citations?user=lCliqbYAAAAJ&hl=en">Google Scholar</a> &nbsp;|&nbsp;
+  <a href="https://orcid.org/0009-0004-6967-0587">ORCID</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/oguzhanberkeozdil/">LinkedIn</a> &nbsp;|&nbsp;
   <a href="mailto:ozdiloguzhanberke@gmail.com">Email</a>
 </p>
